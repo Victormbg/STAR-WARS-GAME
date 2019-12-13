@@ -1,0 +1,32 @@
+C:\Users\aluno\Desktop\aula 1\aula 1\aula_1\bin\x86\Debug\Content\star-wars.xnb
+C:\Users\aluno\Desktop\aula 1\aula 1\aula_1\bin\x86\Debug\Content\gfhfg.xnb
+C:\Users\aluno\Desktop\aula 1\aula 1\aula_1\bin\x86\Debug\aula_1.exe
+C:\Users\aluno\Desktop\aula 1\aula 1\aula_1\bin\x86\Debug\aula_1.pdb
+C:\Users\aluno\Desktop\aula 1\aula 1\aula_1\obj\x86\Debug\aula_1.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\aula 1\aula 1\aula_1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\aluno\Desktop\aula 1\aula 1\aula_1\obj\x86\Debug\aula_1.exe
+C:\Users\aluno\Desktop\aula 1\aula 1\aula_1\obj\x86\Debug\aula_1.pdb
+E:\microsoft visual studio\aula 1\aula 1\aula_1\bin\x86\Debug\Content\star-wars.xnb
+E:\microsoft visual studio\aula 1\aula 1\aula_1\bin\x86\Debug\Content\gfhfg.xnb
+E:\microsoft visual studio\aula 1\aula 1\aula_1\bin\x86\Debug\aula_1.exe
+E:\microsoft visual studio\aula 1\aula 1\aula_1\bin\x86\Debug\aula_1.pdb
+E:\microsoft visual studio\aula 1\aula 1\aula_1\obj\x86\Debug\aula_1.csprojResolveAssemblyReference.cache
+E:\microsoft visual studio\aula 1\aula 1\aula_1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\microsoft visual studio\aula 1\aula 1\aula_1\obj\x86\Debug\aula_1.exe
+E:\microsoft visual studio\aula 1\aula 1\aula_1\obj\x86\Debug\aula_1.pdb
+D:\microsoft visual studio\star wars nave aula 1\aula 1\aula 1\aula_1\bin\x86\Debug\Content\star-wars.xnb
+D:\microsoft visual studio\star wars nave aula 1\aula 1\aula 1\aula_1\bin\x86\Debug\Content\gfhfg.xnb
+D:\microsoft visual studio\star wars nave aula 1\aula 1\aula 1\aula_1\bin\x86\Debug\aula_1.exe
+D:\microsoft visual studio\star wars nave aula 1\aula 1\aula 1\aula_1\bin\x86\Debug\aula_1.pdb
+D:\microsoft visual studio\star wars nave aula 1\aula 1\aula 1\aula_1\obj\x86\Debug\aula_1.csprojResolveAssemblyReference.cache
+D:\microsoft visual studio\star wars nave aula 1\aula 1\aula 1\aula_1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\microsoft visual studio\star wars nave aula 1\aula 1\aula 1\aula_1\obj\x86\Debug\aula_1.exe
+D:\microsoft visual studio\star wars nave aula 1\aula 1\aula 1\aula_1\obj\x86\Debug\aula_1.pdb
+F:\microsoft visual studio\star wars nave aula 1\aula 1\aula 1\aula_1\bin\x86\Debug\Content\star-wars.xnb
+F:\microsoft visual studio\star wars nave aula 1\aula 1\aula 1\aula_1\bin\x86\Debug\Content\gfhfg.xnb
+F:\microsoft visual studio\star wars nave aula 1\aula 1\aula 1\aula_1\bin\x86\Debug\aula_1.exe
+F:\microsoft visual studio\star wars nave aula 1\aula 1\aula 1\aula_1\bin\x86\Debug\aula_1.pdb
+F:\microsoft visual studio\star wars nave aula 1\aula 1\aula 1\aula_1\obj\x86\Debug\aula_1.csprojResolveAssemblyReference.cache
+F:\microsoft visual studio\star wars nave aula 1\aula 1\aula 1\aula_1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\microsoft visual studio\star wars nave aula 1\aula 1\aula 1\aula_1\obj\x86\Debug\aula_1.exe
+F:\microsoft visual studio\star wars nave aula 1\aula 1\aula 1\aula_1\obj\x86\Debug\aula_1.pdb

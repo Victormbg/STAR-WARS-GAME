@@ -1,0 +1,4 @@
+C:\Users\aluno\Desktop\aula 1\aula 1\aula_1Content\obj\x86\Debug\aula_1Content.contentprojResolveAssemblyReference.cache
+E:\microsoft visual studio\aula 1\aula 1\aula_1Content\obj\x86\Debug\aula_1Content.contentprojResolveAssemblyReference.cache
+D:\microsoft visual studio\star wars nave aula 1\aula 1\aula 1\aula_1Content\obj\x86\Debug\aula_1Content.contentprojResolveAssemblyReference.cache
+F:\microsoft visual studio\star wars nave aula 1\aula 1\aula 1\aula_1Content\obj\x86\Debug\aula_1Content.contentprojResolveAssemblyReference.cache
